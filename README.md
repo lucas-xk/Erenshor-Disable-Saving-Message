@@ -1,4 +1,4 @@
-Erenshor Disable Saving Message Mod
+**Erenshor Disable Saving Message Mod**
 
 This mod disables the message "Saving and backing up game data..." when quitting the game.
 
